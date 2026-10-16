@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-@Container(containerName = "AyushTandemUsersSpringBoot")
+@Container(containerName = "Ayush UsersSpringBoot")
 public class UserEntity {
 
 	private String id;

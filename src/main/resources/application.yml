@@ -4,10 +4,10 @@ spring:
     azure:
       cosmos:
         database: Users
-        endpoint: https://tandem-challenge-heena.documents.azure.com:443/
+        endpoint: https:// -challenge-heena.documents.azure.com:443/
         populate-query-metrics: true
         key: uSKk0NM9M6KllEuuJdeRbDhZjfwkw0yY4iwsNv9WCX2RRs25Rgi4vNIKZNoRVGG52tUgZgu9i6WWlJvtOiVhqw==
-        containerName: AyushTandemUsersSpringBoot
+        containerName: Ayush UsersSpringBoot
 springdoc:
   api-docs:
     path: /api-docs
